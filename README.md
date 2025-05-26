@@ -64,14 +64,16 @@ Select your instance → Instance State → Terminate.
 
 ### Simple Storage Service:
 
-![2a](https://github.com/user-attachments/assets/c81b18af-68f3-4e86-b360-0669285a2a24)
+![222a](https://github.com/user-attachments/assets/1f94f5b4-ff36-4c64-aaa2-ee91c9567835)
+
 
 
 
 ### EC2(Elastic Cloud Compute)
 
 
-![2b](https://github.com/user-attachments/assets/5da6dfbd-813e-4299-8969-358b8d9b7ea0)
+![222b](https://github.com/user-attachments/assets/5d5542fd-ecd1-4255-95a2-2272c0e1ffdd)
+
 
 
 # Result:
